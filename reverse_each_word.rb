@@ -1,3 +1,4 @@
 def reverse_each_word(sentence)
-  sentence.split(" ")
+  a_sntc = sentence.split(" ")
+
 end
